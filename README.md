@@ -1,2 +1,3 @@
-# snake-
-bài giữa kì lập trình hướng đối tượng
+# snake-game
+bài thi giữa kì môn lập trình hướng đối tượng - OOP
+GV: Bùi Huy Kiên
